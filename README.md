@@ -7,22 +7,22 @@
 => git config --global user.email "sunilghimire64@gmail.com" <br>
 
 ##### 2. To View  user.name and email
-git config --list 
+=> git config --list 
 
 ##### 3. To Get Help:
-=> git help
+=> git help <br>
 => git help <topic>
 
 ##### 4. Initialize a Repository
 => git init
 
 ##### 5. To Add File To Staging Area
-=> git add filename
-=> git add filename1 filename2
-=> git add . [To Add All Files In Directory]
+=> git add filename <br>
+=> git add filename1 filename2 <br>
+=> git add . [To Add All Files In Directory] 
 
 ##### 6. To Commit Change
-=> git commit -m 'Short and Sweet Message'
+=> git commit -m 'Short and Sweet Message' <br>
 => git commit -am 'Staging and Comit Directly' 
 
 ##### 7. Clone Existing Repository
