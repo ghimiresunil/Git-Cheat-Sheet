@@ -1,5 +1,3 @@
-# Git-Cheat-Sheet
-
 # Git Cheatsheet By Sunil Ghimire
 
 ##### 1. For Config:
