@@ -1,6 +1,6 @@
 # Git-Cheat-Sheet
 
-# Git Cheatsheet By Bishworaj Poudel
+# Git Cheatsheet By Sunil Ghimire
 
 ##### 1. For Config:
 => git config --global user.name "Sunil Ghimire" <br>
