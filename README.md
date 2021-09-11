@@ -125,10 +125,10 @@
 #### 23. Rebase
 => git rebase branchname
   
-# Awesome notes on #git commands [IMAGES]
+# Awesome notes on git commands [IMAGES]
 
 ![Figure 01: Awesome notes on git commands](https://user-images.githubusercontent.com/40186859/130892497-b7887735-528b-49c1-8bac-04f4f6b8c50a.jpeg) 
-|*Figure 01: Awesome notes on git commands*|
+*Figure 01: Awesome notes on git commands*
 ![git_02](https://user-images.githubusercontent.com/40186859/130892587-defe34d2-b593-40e2-8dbd-3f0bcbe8602e.jpeg)
 |*Figure 02: Awesome notes on git commands*|
 ![git_03](https://user-images.githubusercontent.com/40186859/130892695-f7b4ed2b-e09d-438d-bc65-5ce910699ea8.jpeg)
