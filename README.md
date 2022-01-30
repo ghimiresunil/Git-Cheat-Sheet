@@ -22,32 +22,41 @@
 ##### 6. To Commit Change
 => git commit -m 'Short and Sweet Message' <br>
 => git commit -am 'Staging and Comit Directly' 
-
-##### 7. Clone Existing Repository
+  
+##### 7. The seven rules of a great Git commit message
+* Separate subject from body with a blank line <br>
+* Limit the subject line to 50 characters <br>
+* Capitalize the subject line <br>
+* Do not end the subject line with a period <br>
+* Use the imperative mood in the subject line <br>
+* Wrap the body at 72 characters <br>
+* Use the body to explain what and why vs. how
+  
+##### 8. Clone Existing Repository
 => git clone <project_url>
 
-##### 8. Checking the Status Files
+##### 9. Checking the Status Files
 => git status <br>
 => git status -s [Short Status]
 
-##### 9. View Difference
+##### 10. View Difference
 => git diff  [ Find difference between commited and unstaged files] <br>
 => git diff --staged [difference in staged files]
 
-##### 10. To Remove File From git
+##### 11. To Remove File From git
 => git rm filename
 
-##### 11. To Move File
+##### 12. To Move File
 => git mv file_from file_to [If we rename the file]
 
-##### 12. To Move staged file to not staged
+##### 13. To Move staged file to not staged
 => git reset HEAD <br>
 => git reset HEAD file1.txt
 
-##### 13. To Unmodifying a Modified File
+##### 14. To Unmodifying a Modified File
 => git checkout filename
 
-##### 14. To View Commit History
+##### 15. To View Commit History
 => git log <br>
 => git log --oneline [Oneline Easy and Fast] <br>
 => git log --stat [More History] <br>
@@ -59,18 +68,18 @@
 => git log --author "Sunil Ghimire" <br>
 => git log --oneline --decorate --graph --all 
 
-##### 15. To ignore files:
+##### 16. To ignore files:
 => create .gitignore file <br>
 => then add filename/foldername line by line <br>
 => *.c => ignore al .c files <br>
 => !main.c => not ignore main.c file <br>
 => node_modules/ => Directory node_modules and all files inside it.
 
-##### 16. To Unstaging a Staged File with git restore
+##### 17. To Unstaging a Staged File with git restore
 => git restore <br>
 => git restore --staged file1.txt
 
-##### 17. To Work With Remote Repository
+##### 18. To Work With Remote Repository
 => git remote show origin [To View Remote Origin Details] <br>
 => git remote -v <br>
 => git remote add origin <url>: <br>
@@ -82,7 +91,7 @@
 => git remote remove paul <br>
 => git push origin --delete bad-branch-name <br>
 
-##### 18. Git Tag
+##### 19. Git Tag
 => git tag -l <br>
 => git tag --list  <br>
 => git tag -a v1.4 -m "my version 1.4"  <br>
@@ -91,11 +100,11 @@
 => git tag -d v1.4-lw <br>
 => git checkout v2.0.0 <br>
 
-##### 19. To Transfer Tag to Remote
+##### 20. To Transfer Tag to Remote
 => git push origin <tagname>.
 
 
-##### 20. Working With Branch
+##### 21. Working With Branch
 => git branch testing [To Creating Testing Branch] <br>
 => git checkout testing [Switch Branch] <br>
 => git commit -am 'made a change' <br>
@@ -105,12 +114,12 @@
 => git branch --no-merged <br>
 => git branch --move bad-branch-name corrected-branch-name <br>
 
-##### 21. Redo Commit
+##### 22. Redo Commit
 => git reset <br>
 => git reset SHA1 <br>
 => git reset -hard SHA1 
 
-##### 22.  Git Stash
+##### 23.  Git Stash
 => git stash save <br>
 => git stash list <br>
 => git stash pop <br>
@@ -118,11 +127,11 @@
 => git stash clear <br>
 => git stash grop stash <br>
 
-##### 22. Merge
+##### 24. Merge
 => git merge branchname <br>
 => git merge --no-ff branch name
 
-#### 23. Rebase
+#### 25. Rebase
 => git rebase branchname
   
 # Awesome notes on git commands [IMAGES]
