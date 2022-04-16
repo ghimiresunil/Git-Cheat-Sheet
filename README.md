@@ -134,7 +134,7 @@
 #### 25. Rebase
 => git rebase branchname
 
-#### 26. Git Explained to a 6 year old
+#### 26. Git Explained to a 6 years old
 
 => Imagine you get some paper and crayons for your birthday. <br>
 => You use them to yourself a nice beach scene. Then you go have a nice sandwish for lunch. <br>
@@ -147,9 +147,11 @@ That way, you just get right back to the seagulls and not have to re-do all the 
 => With Git though, it's code..
 * You create a file.
 * You edit it a bit
-* Then, you **"Commit"** it to Git.
-=> 
-  
+* Then, you **"Commit"** it to Git. <br>
+=> Without getting into the inner workings, there is essentially from your perspective anyway, a copy of the file exactly as it was at the time you commit it. <br>
+Make Some changes commit it again, now there's two couples (**two "versions"**) that look like the file at the same time of each commit. <br>
+=> These copies are the file's "history". You can compare two different versions to see what changed, and you can "revert" you own copy to a previous change, just like our bratty own artist.
+
 # Awesome notes on git commands [IMAGES]
 
 ![git_01](https://user-images.githubusercontent.com/40186859/130892497-b7887735-528b-49c1-8bac-04f4f6b8c50a.jpeg) 
