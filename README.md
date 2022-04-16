@@ -136,10 +136,19 @@
 
 #### 26. Git Explained to a 6 year old
 
-=> Imagine you get some paper and crayons for your birthday.
-=> You use them to yourself a nice beach scene. Then you go have a nice sandwish for lunch.
-=> When you come back, you start to draw some seagulls - but shit, the food coma hits and thet look terrible!
-  
+=> Imagine you get some paper and crayons for your birthday. <br>
+=> You use them to yourself a nice beach scene. Then you go have a nice sandwish for lunch. <br>
+=> When you come back, you start to draw some seagulls - but shit, the food coma hits and thet look terrible! <br>
+=> So, you crumple up the paper in anger, throw it on the floor for mommy to clean up, and you start over from scratch, re-drawing the beach scene, then trying the seagulls once more, after you finish crying, of course. <br>
+=> Wouldn't it be nice if instead, mommy could reach into the closet and pull out an exact copy of the beach scence before you want to lunch? <br>
+That way, you just get right back to the seagulls and not have to re-do all the work before that print.
+=> **That's essentially Git**(br>
+(except that YOU can go into the closet yourself and mommy can continue to lay on the counch enjoying her coffee- that's how everyone's childhood was, right?!) <br>
+=> With Git though, it's code..
+* You create a file.
+* You edit it a bit
+* Then, you **"Commit"** it to Git.
+=> 
   
 # Awesome notes on git commands [IMAGES]
 
