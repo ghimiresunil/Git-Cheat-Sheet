@@ -133,6 +133,13 @@
 
 #### 25. Rebase
 => git rebase branchname
+
+#### 26. Git Explained to a 6 year old
+
+=> Imagine you get some paper and crayons for your birthday.
+=> You use them to yourself a nice beach scene. Then you go have a nice sandwish for lunch.
+=> When you come back, you start to draw some seagulls - but shit, the food coma hits and thet look terrible!
+  
   
 # Awesome notes on git commands [IMAGES]
 
