@@ -142,12 +142,11 @@
 => Wouldn't it be nice if instead, mommy could reach into the closet and pull out an exact copy of the beach scence before you want to lunch? <br>
 That way, you just get right back to the seagulls and not have to re-do all the work before that print. <br>
 => **That's essentially Git** <br>
-(<code> except that YOU can go into the closet yourself and mommy can continue to lay on the counch enjoying her coffee- that's how everyone's childhood was, right?! </code>) <br>
+(except that YOU can go into the closet yourself and mommy can continue to lay on the counch enjoying her coffee- that's how everyone's childhood was, right?!)<br>
 => With Git though, it's code..
 * You create a file.
 * You edit it a bit
 * Then, you **"Commit"** it to Git. <br>
-
 => Without getting into the inner workings, there is essentially from your perspective anyway, a copy of the file exactly as it was at the time you commit it. <br>
 Make Some changes commit it again, now there's two couples (**two "versions"**) that look like the file at the same time of each commit. <br>
 => These copies are the file's "history". You can compare two different versions to see what changed, and you can "revert" you own copy to a previous change, just like our bratty own artist.
