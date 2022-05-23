@@ -2,7 +2,7 @@
 
 ##### 1. For Config:
 => git config --global user.name "Sunil Ghimire" <br>
-=> git config --global user.email "sunilghimire64@gmail.com" <br>
+=> git config --global user.email "info@sunilghimire.com.np" <br>
 
 ##### 2. To View  user.name and email
 => git config --list 
