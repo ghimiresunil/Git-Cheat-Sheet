@@ -146,7 +146,7 @@ That way, you just get right back to the seagulls and not have to re-do all the 
 => With Git though, it's code..
   * You create a file.
   * You edit it a bit
-  * Then, you **"Commit"** it to Git. <br>
+  * Then, you **"Commit"** it to Git. 
 => Without getting into the inner workings, there is essentially from your perspective anyway, a copy of the file exactly as it was at the time you commit it. <br>
 Make Some changes commit it again, now there's two couples (**two "versions"**) that look like the file at the same time of each commit. <br>
 => These copies are the file's "history". You can compare two different versions to see what changed, and you can "revert" you own copy to a previous change, just like our bratty own artist.
