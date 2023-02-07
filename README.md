@@ -9,7 +9,7 @@
 
 ##### 3. To Get Help:
 => git help <br>
-=> git helpg `<topic>`
+=> git help `<topic>`
 
 ##### 4. Initialize a Repository
 => git init
